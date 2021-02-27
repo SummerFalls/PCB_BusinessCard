@@ -1,4 +1,4 @@
-# :beers: PCB_BusinessCard ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SummerFalls/PCB_BusinessCard?label=%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%B0%8F)
+# :beers: PCB_BusinessCard <a href="https://github.com/SummerFalls/PCB_BusinessCard/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/SummerFalls/PCB_BusinessCard.svg?style=flat"></a> <a title="Hits" target="_blank" href="https://github.com/SummerFalls/PCB_BusinessCard"><img src="https://hits.b3log.org/b3log/hits.svg"></a>
 
 <div align="center">
 
@@ -12,6 +12,22 @@
 ## :closed_book: 简介
 
 基于 `Altium Designer 21` 和 `KeyShot 8` 的个人 PCB 名片工程，本工程演示了如何使用 Altium Designer 导出 3D 模型并用 KeyShot 进行渲染的操作。
+
+<hr/>
+
+## :gear: 软件需求
+
+- Altium Designer 21
+- KeyShot 8
+- Adobe Photoshop 2020
+- Adobe Acrobat DC
+
+## :framed_picture: 其它渲染图
+
+|                                             |                                             |
+|---------------------------------------------|---------------------------------------------|
+| ![PCB_BusinessCard.22][PCB_BusinessCard.22] | ![PCB_BusinessCard.28][PCB_BusinessCard.28] |
+| ![PCB_BusinessCard.41][PCB_BusinessCard.41] | ![PCB_BusinessCard.42][PCB_BusinessCard.42] |
 
 ## :speech_balloon: 渲染简要步骤
 
@@ -45,22 +61,6 @@
    > ![KeyShot][KeyShot]
 4. 最后，将调整好角度的实时渲染效果导出为图片
    > ![渲染导出][渲染导出]
-
-<hr/>
-
-## :gear: 软件需求
-
-- Altium Designer 21
-- KeyShot 8
-- Adobe Photoshop 2020
-- Adobe Acrobat DC
-
-## :framed_picture: 其它渲染图
-
-|  |  |
-|--|--|
-| ![PCB_BusinessCard.22][PCB_BusinessCard.22] | ![PCB_BusinessCard.38][PCB_BusinessCard.38] |
-| ![PCB_BusinessCard.41][PCB_BusinessCard.41] | ![PCB_BusinessCard.42][PCB_BusinessCard.42] |
 
 ---
 
@@ -102,6 +102,6 @@ SOFTWARE.
 [渲染导出]: ./2.Pics/渲染导出.png
 [PCB_BusinessCard.32]: ./2.Pics/PCB_BusinessCard.32.png
 [PCB_BusinessCard.22]: ./2.Pics/PCB_BusinessCard.22.png
-[PCB_BusinessCard.38]: ./2.Pics/PCB_BusinessCard.38.png
+[PCB_BusinessCard.28]: ./2.Pics/PCB_BusinessCard.28.png
 [PCB_BusinessCard.41]: ./2.Pics/PCB_BusinessCard.41.png
 [PCB_BusinessCard.42]: ./2.Pics/PCB_BusinessCard.42.png
