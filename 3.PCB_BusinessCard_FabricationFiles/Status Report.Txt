@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [PCB_PatternDesignReference.PcbDoc]
+   Generated File[Fabrication Testpoint Report for PCB_PatternDesignReference.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At ÉÏÎç 02:43:16 On 2021-2-26-ÖÜÎå

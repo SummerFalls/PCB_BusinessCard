@@ -1,0 +1,218 @@
+*************************************************************
+FileName = PCB_PatternDesignReference.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_PatternDesignReference.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_PatternDesignReference.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_PatternDesignReference.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_PatternDesignReference.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_PatternDesignReference.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_PatternDesignReference.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_PatternDesignReference.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB_PatternDesignReference.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB_PatternDesignReference.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_PatternDesignReference.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_PatternDesignReference.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_PatternDesignReference.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB_PatternDesignReference.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D20
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB_PatternDesignReference.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_PatternDesignReference.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_PatternDesignReference.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D25
+*************************************************************
+
