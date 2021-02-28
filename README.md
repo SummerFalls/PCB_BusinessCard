@@ -1,4 +1,4 @@
-# :beers: PCB_BusinessCard <a href="https://github.com/SummerFalls/PCB_BusinessCard/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/SummerFalls/PCB_BusinessCard.svg?style=flat"></a> <a title="Hits" target="_blank" href="https://github.com/SummerFalls/PCB_BusinessCard"><img src="https://hits.b3log.org/b3log/hits.svg"></a>
+# :beers: PCB_BusinessCard <a href="https://github.com/SummerFalls/PCB_BusinessCard/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/SummerFalls/PCB_BusinessCard.svg?style=flat"></a> <a title="Hits" target="_blank" href="https://github.com/SummerFalls/PCB_BusinessCard"><img src="https://hits.b3log.org/SummerFalls/PCB_BusinessCard.svg"></a>
 
 <div align="center">
 
