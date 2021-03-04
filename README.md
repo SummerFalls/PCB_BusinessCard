@@ -1,11 +1,6 @@
+# :kiwi_fruit: PCB_BusinessCard | 客制化 PCB 名片
+
 <table>
-<tr>
-<td colspan="2" style = "text-align: center; font-size: 1.5em; font-weight: bold;">
-
-## :kiwi_fruit: PCB_BusinessCard | 客制化 PCB 名片
-
-</td>
-</tr>
 <tr>
 <td style = "width: 50%;">
 
