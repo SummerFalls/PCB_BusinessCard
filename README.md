@@ -11,7 +11,10 @@
 
 ## :closed_book: 简介 <a href="https://github.com/SummerFalls/PCB_BusinessCard/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/SummerFalls/PCB_BusinessCard.svg?style=flat"></a> <a title="Hits" target="_blank" href="https://github.com/SummerFalls/PCB_BusinessCard"><img src="https://hits.b3log.org/SummerFalls/PCB_BusinessCard.svg"></a>
 
-基于 `Altium Designer 21` 和 `KeyShot 8` 的个人 PCB 名片工程，本工程演示了如何使用 Altium Designer 导出 3D 模型并用 KeyShot 进行渲染的操作。
+基于 `Altium Designer 21` 和 `KeyShot 8` 的个人 PCB 名片工程，本工程演示了如何使用 Altium Designer 导出 3D 模型并用 KeyShot 完美解决 3D 模型缺失 PCB 丝印以及元器件丝印的问题，之后再进一步进行渲染，详细教程在渲染图展示的下方。
+
+:warning: 对于本说明档中图片加载不出来的情况，也可直接下载本仓库的 [Releases
+page](https://github.com/SummerFalls/PCB_BusinessCard/releases) 中提供的 :page_facing_up: `PDF 文档` 进行阅读。
 
 </td>
 <td style = "width: 50%;">
