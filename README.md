@@ -13,18 +13,28 @@
 
 基于 `Altium Designer 21` 和 `KeyShot 8` 的个人 PCB 名片工程，本工程演示了如何使用 Altium Designer 导出 3D 模型并用 KeyShot 完美解决 3D 模型缺失 PCB 丝印以及元器件丝印的问题，之后再进一步进行渲染，详细教程在渲染图展示的下方。
 
-:warning: 对于本说明档中图片加载不出来的情况，也可直接下载本仓库的 [Releases
-page](https://github.com/SummerFalls/PCB_BusinessCard/releases) 中提供的 :page_facing_up: `PDF 文档` 进行阅读。
-
-</td>
-<td style = "width: 50%;">
-
 ## :gear: 软件需求
 
 - Altium Designer 21
 - KeyShot 8
 - Adobe Photoshop 2020
 - Adobe Acrobat DC
+
+</td>
+<td style = "width: 50%;">
+
+:warning: 对于本说明档中图片加载不出来的情况，也可直接下载本仓库的 [Releases
+page](https://github.com/SummerFalls/PCB_BusinessCard/releases/latest) 中提供的 :page_facing_up: `PDF 文档` 进行阅读。
+
+:warning: 若要用 `Altium Designer 21` 正常打开本工程，最好先右键安装 :file_folder: `./1.RenderFiles/` 文件夹下的 3 款字体文件，否则 PCB 丝印显示不正常，因为我使用了 `TTF/OTF` 矢量字体文件来作为丝印 Logo 的载体。
+
+- For PCB SilkScreen Logo
+  - :package: ApexLogo.ttf
+- For IC SilkScreen Font
+  - :package: IC_SilkScreen_Font_OCR A Std Regular.ttf
+  - :package: IC_SilkScreen_Font_OCR A Std.otf
+
+![字体文件][字体文件]
 
 </td>
 </tr>
@@ -165,6 +175,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[字体文件]: ./2.Pics/字体文件.png
 [KeyShot]: ./2.Pics/KeyShot.png
 [AD导出3D模型]: ./2.Pics/AD导出3D模型.png
 [AD导出PCB丝印]: ./2.Pics/AD导出PCB丝印.png
